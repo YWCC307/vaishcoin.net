@@ -62,16 +62,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: 'https://youtu.be/CXnUX2EkicE'
-      elementId: ''
-      autoplay: false
-      loop: false
-      muted: false
-      controls: true
-      aspectRatio: '16:9'
   - type: FeaturedItemsSection
     title: What we're about
     items:
