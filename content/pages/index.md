@@ -53,8 +53,7 @@ sections:
           to fight crime and fraudulent transactions.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/identity-verification-blog.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
