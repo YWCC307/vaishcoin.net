@@ -62,8 +62,9 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: |
-      the official currency of ywcc307
+    text: |+
+      \<div style="text-align: center">the official currency of ywcc307\</div>
+
   - type: FeaturedItemsSection
     title: What we're about
     items:
