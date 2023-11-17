@@ -108,8 +108,7 @@ sections:
           withdrawal in seconds.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/online-money-transfer-small.jpeg
           altText: Item image
           caption: Caption of the image
           elementId: ''
