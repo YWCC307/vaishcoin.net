@@ -1,14 +1,7 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg1.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
+colors: colors-c
 sections:
   - elementId: ''
     colors: colors-f
@@ -127,7 +120,7 @@ sections:
           self:
             textAlign: left
     actions: []
-    colors: colors-f
+    colors: colors-e
     columns: 1
     spacingX: 16
     spacingY: 16
