@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Vaishcoin
-    subtitle: This is my info
+    subtitle: The new standard for fiat currency.
     styles:
       self:
         height: auto
@@ -42,34 +42,103 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - colors: colors-f
-    type: FeaturedProjectsSection
+  - type: FeaturedItemsSection
+    title: What we're about
+    items:
+      - type: FeaturedItem
+        title: ID Verification
+        subtitle: ''
+        text: >
+          VaishCoin will confirm the identities of all people using our product
+          to fight crime and fraudulent transactions.
+        featuredImage:
+          type: ImageBlock
+          url: /images/identity-verification-blog-sized.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Transaction Tracking
+        subtitle: ''
+        text: >+
+          VaishCoin will track all transactions to provide a trail to prevent
+          crime, identify fraud, and to help mitigate money laundering
+          operations. KYC data can also be used to provide better services to
+          our citizens.
+
+        featuredImage:
+          type: ImageBlock
+          url: /images/1602690173274.jpeg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: efficiency
+        subtitle: ''
+        text: >
+          VaishCoin is fast; funds are transferred and made available to
+          withdrawal in seconds.
+        featuredImage:
+          type: ImageBlock
+          url: /images/online-money-transfer-small.jpeg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 1
+    spacingX: 16
+    spacingY: 16
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: narrow
         padding:
-          - pt-24
-          - pb-24
+          - pt-28
+          - pb-36
           - pl-4
           - pr-4
         justifyContent: center
@@ -78,6 +147,5 @@ sections:
       subtitle:
         textAlign: left
       actions:
-        justifyContent: flex-end
-    subtitle: 'Projects:'
+        justifyContent: flex-start
 ---
