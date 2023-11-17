@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Vaishcoin
-    subtitle: This is my info
+    subtitle: The new standard for fiat currency.
     styles:
       self:
         height: auto
