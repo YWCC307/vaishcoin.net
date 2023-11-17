@@ -45,7 +45,7 @@ sections:
       can continue to scroll down to see more details and credentials about me.
     actions: []
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     elementId: ''
     styles:
       self:
