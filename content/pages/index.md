@@ -53,7 +53,7 @@ sections:
           to fight crime and fraudulent transactions.
         featuredImage:
           type: ImageBlock
-          url: /images/identity-verification-blog.png
+          url: /images/identity-verification-blog-sized.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
