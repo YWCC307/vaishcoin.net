@@ -48,11 +48,9 @@ sections:
       - type: FeaturedItem
         title: I'm Fast
         subtitle: ''
-        text: |+
-          Identity Ensurance
-
-          *   Confirm identities of all people using it
-
+        text: >
+          VaishCoin will confirm the identities of all people using it to fight
+          crime and fraudulent transactions.
         featuredImage:
           type: ImageBlock
           url: >-
