@@ -24,7 +24,16 @@
                 "url": "/blog"
             }
         ],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://github.com/YWCC307",
+                "icon": "github",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full"
