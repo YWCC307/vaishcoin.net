@@ -74,10 +74,12 @@ sections:
       - type: FeaturedItem
         title: Transaction Tracking
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          VaishCoin will track all transactions to provide a trail to prevent
+          crime, identify fraud, and to help mitigate money laundering
+          operations. KYC data can also be used to provide better services to
+          our citizens.
+
         featuredImage:
           type: ImageBlock
           url: /images/1602690173274.jpeg
