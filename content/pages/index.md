@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Vaishcoin
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years.
+    subtitle: This is my info
     styles:
       self:
         height: auto
