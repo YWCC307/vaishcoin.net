@@ -37,7 +37,7 @@ sections:
     actions: []
   - type: HeroSection
     title: ''
-    subtitle: the official currency of ywcc307
+    subtitle: ''
     actions: []
     colors: colors-d
     backgroundSize: full
