@@ -49,8 +49,8 @@ sections:
         title: ID Verification
         subtitle: ''
         text: >
-          VaishCoin will confirm the identities of all people using it to fight
-          crime and fraudulent transactions.
+          VaishCoin will confirm the identities of all people using our product
+          to fight crime and fraudulent transactions.
         featuredImage:
           type: ImageBlock
           url: >-
