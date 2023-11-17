@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions: []
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: What we're about
     items:
       - type: FeaturedItem
         title: I'm Fast
