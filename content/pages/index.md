@@ -46,7 +46,7 @@ sections:
     title: What we're about
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: ID Verification
         subtitle: ''
         text: >
           VaishCoin will confirm the identities of all people using it to fight
