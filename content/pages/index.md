@@ -62,7 +62,9 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: the official currency of ywcc307
+    text: |+
+      # the official currency of ywcc307
+
   - type: FeaturedItemsSection
     title: What we're about
     items:
