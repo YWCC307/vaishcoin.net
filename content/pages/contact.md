@@ -9,9 +9,7 @@ sections:
     subtitle: >-
       The Vaishcoin team thrives on communication. Here you can see how to talk
       to us :)
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: "**Emails:\_**\n\n*   andrew\\@vaishcoin.net\_\n\n*   mauricio\\@vaishcoin.net\n\n*   kevin\\@vaishcoin.net\n\n**Phone:** \n\n*   (608) 88-Vaish (82474)\n\n"
     elementId: ''
     styles:
       self:
