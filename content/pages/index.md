@@ -7,7 +7,7 @@ sections:
     colors: colors-c
     backgroundSize: full
     title: Vaishcoin
-    subtitle: The new digital standard for fiat currency.
+    subtitle: The new digital standard for fiat currency. Official currency of YWCC307.
     styles:
       self:
         height: auto
