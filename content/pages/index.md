@@ -35,34 +35,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - type: HeroSection
-    title: ''
-    subtitle: ''
-    actions: []
-    colors: colors-d
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    text: ''
   - type: FeaturedItemsSection
     title: What we're about
     items:
