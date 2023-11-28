@@ -4,10 +4,10 @@ title: Home
 colors: colors-c
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-c
     backgroundSize: full
     title: Vaishcoin
-    subtitle: The new standard for fiat currency.
+    subtitle: The new digital standard for fiat currency. Official currency of YWCC307.
     styles:
       self:
         height: auto
@@ -25,6 +25,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
+        borderColor: border-secondary
       title:
         textAlign: left
       subtitle:
@@ -35,34 +36,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - type: HeroSection
-    title: ''
-    subtitle: ''
-    actions: []
-    colors: colors-d
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    text: ''
   - type: FeaturedItemsSection
     title: What we're about
     items:
@@ -78,16 +51,7 @@ sections:
           altText: Item image
           caption: Caption of the image
           elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
@@ -107,16 +71,7 @@ sections:
           altText: Item image
           caption: Caption of the image
           elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
@@ -133,16 +88,7 @@ sections:
           altText: Item image
           caption: Caption of the image
           elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:

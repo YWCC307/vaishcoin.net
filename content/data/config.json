@@ -15,13 +15,13 @@
             },
             {
                 "type": "Link",
-                "label": "Projects",
+                "label": "We're Different",
                 "url": "/projects"
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "label": "Contact",
+                "url": "/contact"
             }
         ],
         "socialLinks": [
@@ -52,7 +52,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "/contact",
                 "altText": ""
             },
             {
@@ -62,17 +62,7 @@
                 "altText": ""
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
-        },
-        "copyrightText": "",
+        "copyrightText": "made with love by ywcc307 team 5\n",
         "styles": {
             "self": {
                 "width": "narrow",
