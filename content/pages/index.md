@@ -7,7 +7,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Vaishcoin
-    subtitle: The new standard for fiat currency.
+    subtitle: The new digital standard for fiat currency.
     styles:
       self:
         height: auto
