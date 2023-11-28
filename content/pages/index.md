@@ -4,7 +4,7 @@ title: Home
 colors: colors-c
 sections:
   - elementId: ''
-    colors: colors-d
+    colors: colors-c
     backgroundSize: full
     title: Vaishcoin
     subtitle: The new digital standard for fiat currency.
