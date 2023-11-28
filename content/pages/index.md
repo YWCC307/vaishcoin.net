@@ -27,7 +27,7 @@ sections:
         flexDirection: row-reverse
         borderColor: border-secondary
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
         textAlign: left
       text:
