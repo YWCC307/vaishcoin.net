@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: |+
-      ## what we're about
+      our task
+
+
 
     styles:
       self:
