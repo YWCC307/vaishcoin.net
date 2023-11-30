@@ -129,7 +129,7 @@ sections:
 backgroundImage:
   type: BackgroundImage
   url: /images/bg1.jpg
-  backgroundSize: contain
+  backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
