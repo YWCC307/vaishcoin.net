@@ -4,7 +4,7 @@ title: Home
 colors: colors-c
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-f
     backgroundSize: full
     title: Vaishcoin
     subtitle: The new digital standard for fiat currency. Official currency of YWCC307.
@@ -36,6 +36,17 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-2
+          - pb-2
+        justifyContent: center
+        borderWidth: 1
   - type: FeaturedItemsSection
     title: What we're about
     items:
@@ -94,7 +105,7 @@ sections:
           self:
             textAlign: left
     actions: []
-    colors: colors-e
+    colors: colors-f
     columns: 1
     spacingX: 16
     spacingY: 16
@@ -115,4 +126,11 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg1.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
