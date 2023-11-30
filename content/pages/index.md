@@ -130,7 +130,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg1.jpg
   backgroundSize: cover
-  backgroundPosition: top
+  backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
 ---
