@@ -44,13 +44,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: our task
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: "Objectives​\n\n*   Create a new Crypto Currency\_Platform​\n\n*   Based off Fiat Currency\_Principles​\n\n*   Anti Money\_Laundering​\n\n*   Know your\_customer​\n\n*   Fraud Detection​\n\n\n\n"
     elementId: ''
     styles:
       self:
