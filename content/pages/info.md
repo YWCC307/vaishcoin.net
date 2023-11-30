@@ -44,7 +44,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: our task
-    text: "Objectives​\n\n*   Create a new Crypto Currency\_Platform​\n\n*   Based off Fiat Currency\_Principles​\n\n*   Anti Money\_Laundering​\n\n*   Know your\_customer​\n\n*   Fraud Detection​\n\n\n\n"
+    text: "*   Create a new Crypto Currency\_Platform​\n\n*   Based off Fiat Currency\_Principles​\n\n*   Anti Money\_Laundering​\n\n*   Know your\_customer​\n\n*   Fraud Detection​\n"
     elementId: ''
     styles:
       self:
